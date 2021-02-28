@@ -1,0 +1,19 @@
+---
+title: "Personal Website"
+author: "Kania Thea Pradipta"
+date: "2/28/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Name : Kania Thea Pradipta <br>
+Github account : https://github.com/kaniathea <br>
+Partner : Carl <br>
+Github account :
+
+![](https://cdn.britannica.com/88/132688-050-E9739DD9/Skyline-Jakarta-Indonesia.jpg)
+
+Jakarta city view
