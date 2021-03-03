@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 Name : Kania Thea Pradipta <br>
 Github account : https://github.com/kaniathea <br>
 Partner : Carl <br>
-Github account :
+Github account : https://github.com/castjohn <br>
 
 ![](https://cdn.britannica.com/88/132688-050-E9739DD9/Skyline-Jakarta-Indonesia.jpg)
 
